@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Thwisha Kotian  
-**Frontend Developer | AWS Certified | Angular & React Specialist**  
-📍 Bengaluru, India  
+ Software Developer at Cybersolve
+ 📍 Bengaluru, India  
 
 🚀 **I build:** Scalable web apps with real-time features and optimized UIs.  
 💡 **Passionate about:** Performance tuning, CI/CD pipelines, and 3D visualization.  
