@@ -12,9 +12,9 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ### 🔥 **Featured Projects**  
-- **[IdentifyXpress](https://github.com/ThwishaKotian/IdentifyXpress)**  
+- **[UsabilityHub]([https://github.com/ThwishaKotian/IdentifyXpress](https://thwishakotian.github.io/usabilityhubb/))**  
   IAM platform with RBAC and real-time analytics (Angular + AWS).  
-- **[3D Twin](https://github.com/ThwishaKotian/3D-Twin)**  
+- **[Pokedex]([https://github.com/ThwishaKotian/3D-Twin](https://thwishakotian.github.io/Pokedex/))**  
   Real-time construction monitoring tool using Three.js and WebSockets.  
 
 ### 📫 **Let’s Connect**  
