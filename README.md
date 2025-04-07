@@ -30,18 +30,16 @@ I build scalable, high-performance web applications with real-time features, sle
 ### 🌟 **Featured Projects**
 
 - 🔐 **[UsabilityHub](https://thwishakotian.github.io/usabilityhubb/)**  
-  IAM platform with RBAC, real-time analytics, and responsive design.  
-  _Tech used: Angular, AWS_
+   A user research tool that simulates design preference tests. Built with responsive UI and interactive options to collect and analyze user choices in real-time.  
+  _Tech used: HTML, CSS, JavaScript_
 
 - 🧱 **[Pokedex](https://thwishakotian.github.io/Pokedex/)**  
-  A 3D construction monitoring tool with real-time updates.  
-  _Tech used: Three.js, WebSockets_
+  An interactive Pokédex that lets users search, filter, and explore detailed Pokémon data with smooth UI transitions and responsive design.  
+  _Tech used: HTML, CSS, JavaScript, REST API_
 
 ---
 
 ### 💡 **What I’m Passionate About**  
-- Performance tuning  
-- CI/CD pipelines  
 - Real-time data visualization  
 - Clean, accessible UIs  
 - Continuous learning and shipping cool things 🌈
