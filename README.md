@@ -3,13 +3,12 @@
  📍 Bengaluru, India  
 
 🚀 **I build:** Scalable web apps with real-time features and optimized UIs.  
-💡 **Passionate about:** Performance tuning, CI/CD pipelines, and 3D visualization.  
 
 ### 🛠️ **Tech Stack**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
 
 ### 🔥 **Featured Projects**  
 - **[UsabilityHub]([https://github.com/ThwishaKotian/IdentifyXpress](https://thwishakotian.github.io/usabilityhubb/))**  
