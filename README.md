@@ -33,9 +33,10 @@ I build scalable, high-performance web applications with real-time features, sle
    A user research tool that simulates design preference tests. Built with responsive UI and interactive options to collect and analyze user choices in real-time.  
   _Tech used: HTML, CSS, JavaScript_
 
-- 🧱 **[Pokedex](https://thwishakotian.github.io/Pokedex/)**  
-  An interactive Pokédex that lets users search, filter, and explore detailed Pokémon data with smooth UI transitions and responsive design.  
-  _Tech used: HTML, CSS, JavaScript, REST API_
+
+ - 🔐 **[Retro Sketch](https://thwishakotian.github.io/Retro-Sketch/)**  
+  A fun Etch A Sketch-inspired drawing app where users can sketch using arrow keys and clear the canvas with a click—bringing pixel nostalgia to the browser.
+  _Tech used: HTML, CSS, JavaScript_
 
 ---
 
